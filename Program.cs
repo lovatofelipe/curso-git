@@ -9,6 +9,7 @@ namespace Course
         static void Main(string[] args)
         {
             Console.WriteLine("teste de versões");
+            Console.WriteLine("hello World");
 
         }
     }
